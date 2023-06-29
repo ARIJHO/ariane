@@ -21,19 +21,30 @@
     padding: 24px 0;
 }
 .sobreImagem{
-    Width: 25%
+    width: 25%
 }
 .sobre{    
     background-image:linear-gradient(#9A4D92,#e2b2ff);
     color:black;
     display: flex;
-    justify-content;center;
-    align-itens:center;
+    justify-content: center;
+    align-items:center;
     padding:24px;
 }
 .sobreConteudo{
-    Width:55%;
+    width:55%;
 }
 .membroImagem{
-    Width:13%;
+    width:13%;
+}
+
+.membroIcone{
+    width: 2%;
+}
+.membroDiv{
+    text-align: center;
+}
+.membrosTitulo{
+    text-align: center;
+    padding: 30px 0;
 }
