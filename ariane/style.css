@@ -55,15 +55,16 @@
 }
 
 .membroImagem{
-    width: 13%;
+    width: 20%;
 }
 
 .membroIcone{
-    width: 2%;
+    width: 6%;
 }
 
 .membroDiv{
     text-align: center;
+    padding-bottom: 75px;
 }
 
 .membrosTitulo{
@@ -72,5 +73,5 @@
 }
 .membrosTodos {
     display: grid;
-    grid-template-columns: 10% 20% 20% 20% 20%;
+    grid-template-columns: 5% 30% 30% 30%;
 }
